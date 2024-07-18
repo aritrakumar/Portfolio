@@ -46,9 +46,11 @@ function About() {
         <Toolstack />
 
         {/* <Leetcode /> */}
+
       </Container>
     </Container>
   );
+
 }
 
 export default About;
