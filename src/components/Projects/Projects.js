@@ -36,10 +36,9 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="DriveShare"
-              description=" Log in using Google OAuth2, Users can create custom file upload targets using Google Drive folder IDs, allowing
- anyone to upload files via a provided link, Once logged in, users can view all their created upload targets and revoke access
- to any of them build with React Js, Redux, Rest API using Node Js, Express Js, Mongo DB, Google OAuth Application &
- Library, Google APIs for JWT auth."
+              description="Users log in using Google OAuth2 and can create custom file upload targets by specifying Google Drive folder
+IDs, allows others to upload files via a shared link, After logging in, users can view all their created upload targets and
+revoke access to any of them."
               ghLink="https://github.com/aritrakumar/DriveShare-Master"
               // demoLink="https://blogs.soumya-jit.tech/"
             />
@@ -51,7 +50,7 @@ function Projects() {
               isBlog={false}
               title="Blogger"
               description="A place for writer Sign up and Log in, Posting and Sharing articles, Users can follow other users build with React Js, Redux, Rest API using Node Js, Express Js, Mongo DB."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
+              ghLink="https://github.com/aritrakumar/Blogger"
               // demoLink="https://editor.soumya-jit.tech/"              
             />
           </Col>
@@ -67,6 +66,27 @@ function Projects() {
             />
           </Col> */}
 
+           <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={bitsOfCode}
+              isBlog={false}
+              title="InShare"
+              description="Filesharing upto 100MB, Emailing to reciever & File link is avialable for 24 hrs."
+              ghLink="https://github.com/aritrakumar/InShare"
+              // demoLink="https://editor.soumya-jit.tech/"              
+            />
+          </Col>
+
+            <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={editor}
+              isBlog={false}
+              title="CodeSync"
+              description="Live chat room based on WebSocket protocol using SocketIO & ”typing” visual"
+              ghLink="https://github.com/aritrakumar/CodeSync"
+              // demoLink="https://blogs.soumya-jit.tech/"
+            />
+          </Col>
 
           
         </Row>
