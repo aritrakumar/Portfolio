@@ -36,9 +36,9 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="DriveShare"
-              description="Users log in using Google OAuth2 and can create custom file upload targets by specifying Google Drive folder
-IDs, allows others to upload files via a shared link, After logging in, users can view all their created upload targets and
-revoke access to any of them build using React Js, Redux, Rest API using Node Js, Express Js, Mongo DB, Google OAuth2 Application \&  Library, Google APIs for JWT auth."
+              description="Users login using Google OAuth2 and can create custom file upload targets by specifying Google Drive folder
+IDs, allows others to upload files via a shared link, After login, users can view all their created upload targets and
+revoke access to any of them build using React Js, Redux, Rest API using Node Js, Express Js, Mongo DB, Google OAuth2 Application &  Library, Google APIs for JWT auth."
               ghLink="https://github.com/aritrakumar/DriveShare-Master"
               // demoLink="https://blogs.soumya-jit.tech/"
             />
