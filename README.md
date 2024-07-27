@@ -8,6 +8,7 @@
 
 <br/>
 
+<!--
 <h3 align="center">
     🔹
     <a href="https://github.com/aritrakumar/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
@@ -18,7 +19,7 @@
 ## TL;DR
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [aritrakumar](https://github.com/aritrakumar/Portfolio). Thanks!
-
+-->
 ## Built With
 
 My personal portfolio <a href="https://aritra-portfolio-six.vercel.app/" target="_blank">aritra.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
