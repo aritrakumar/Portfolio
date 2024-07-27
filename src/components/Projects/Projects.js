@@ -38,7 +38,7 @@ function Projects() {
               title="DriveShare"
               description="Users log in using Google OAuth2 and can create custom file upload targets by specifying Google Drive folder
 IDs, allows others to upload files via a shared link, After logging in, users can view all their created upload targets and
-revoke access to any of them."
+revoke access to any of them build using React Js, Redux, Rest API using Node Js, Express Js, Mongo DB, Google OAuth2 Application \&  Library, Google APIs for JWT auth."
               ghLink="https://github.com/aritrakumar/DriveShare-Master"
               // demoLink="https://blogs.soumya-jit.tech/"
             />
@@ -49,7 +49,7 @@ revoke access to any of them."
               imgPath={bitsOfCode}
               isBlog={false}
               title="Blogger"
-              description="A place for writer Sign up and Log in, Posting and Sharing articles, Users can follow other users build with React Js, Redux, Rest API using Node Js, Express Js, Mongo DB."
+              description="A place for writer Sign up and Log in, Posting and Sharing articles, Users can follow other users build with HTML, Tailwind CSS, React Js, Redux, Rest API using Node Js, Express Js, Mongo DB."
               ghLink="https://github.com/aritrakumar/Blogger"
               // demoLink="https://editor.soumya-jit.tech/"              
             />
@@ -71,7 +71,7 @@ revoke access to any of them."
               imgPath={bitsOfCode}
               isBlog={false}
               title="InShare"
-              description="Filesharing upto 100MB, Emailing to reciever & File link is avialable for 24 hrs."
+              description="Filesharing upto 100MB, Emailing to reciever & File link is avialable for 24 hrs build using HTML, Bootstrap CSS, JavaScript, NodeJs, Express Js, MongoDB."
               ghLink="https://github.com/aritrakumar/InShare"
               // demoLink="https://editor.soumya-jit.tech/"              
             />
@@ -82,7 +82,7 @@ revoke access to any of them."
               imgPath={editor}
               isBlog={false}
               title="CodeSync"
-              description="Live chat room based on WebSocket protocol using SocketIO & ”typing” visual"
+              description="Live chat room based on WebSocket protocol using SocketIO & ”typing” visual build using HTML, BootStrap CSS, JavaScript, React Js, NodeJs, Express Js, Socket.io."
               ghLink="https://github.com/aritrakumar/CodeSync"
               // demoLink="https://blogs.soumya-jit.tech/"
             />
